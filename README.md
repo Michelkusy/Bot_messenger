@@ -48,7 +48,6 @@
 - Then enter this 2 command lines :<br />
 $ heroku config:add PAGE_ACCESS_TOKEN=your_token <br />
 $ heroku config:add VERIFY_TOKEN=another_token <br />
-- To end this add your token from facebook dev to check_online.py
 
 # Remember to push on heroku master and not on origin master
 
